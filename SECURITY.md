@@ -9,4 +9,4 @@
 
 ## Reporting a Vulnerability
 
-
+[Click here](https://github.com/MatsDevOfficial/Browser-Project/security/advisories/new)
